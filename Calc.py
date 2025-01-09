@@ -1,8 +1,8 @@
 # This function adds two numbers
-import Addition
+import addition
 import Subtraction
-import Multiplication
-import Division
+import multiplication
+import division
 
 # This is to present a menu to the user
 print("Select operation.")
